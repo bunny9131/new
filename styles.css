@@ -9,6 +9,7 @@ body{
 }
 
 .top{
+    margin-top:50px;
     display:flex;
     width:100vw;
     justify-content:space-around;
@@ -17,12 +18,12 @@ body{
     margin-bottom:35px;
 }
 #thin{
-    font-size:40px;
+    font-size:50px;
     margin:0;
 }
 #bold-txt{
     font-weight:bolder;
-    font-size:40px;
+    font-size:50px;
     margin:0;
 }
 .upper-img{
@@ -50,15 +51,15 @@ body{
     font-weight:bold;
     color:white;
 margin-top:10px;
-margin-right:50px;
+margin-left:-15px;
 text-align:center;
 }
 .top h1{
     color:orangered;
-    font-size:120px;
+    font-size:150px;
 }
 .top h3{
-  font-size:30px; 
+  font-size:50px; 
   letter-spacing:5px; 
 }
 #footer{
